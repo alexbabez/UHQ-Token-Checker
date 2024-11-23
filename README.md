@@ -41,7 +41,7 @@ Once the script completes, it will display a summary of the results and save the
 
 ## 💬 **Contact & Support**
 
-For questions or support, feel free to reach out via Discord: `termwave_`.
+For questions or support, feel free to reach out via Discord: `peg2`.
 
 **Happy checking and enjoy your Discord boosts!** 🎉
 
